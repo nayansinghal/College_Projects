@@ -1,0 +1,1 @@
+Project files are too large to attach because of use of Stanford Parser, Tagger, NER, WordNet etc. Attached the paper which is soon going to be published. It’s my request not to show this paper to someone else. Snapshot.doc contains some of the snapshots of this project.
